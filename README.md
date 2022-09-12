@@ -1,5 +1,7 @@
 # Programación 1 - UNSAM
 
+![portada](./image-wp.jpg)
+
 Repositorio con ejercicios, datasets y apuntes de la materia de Licenciatura en Ciencia de Datos.
 
 Todos los ejercicios están resueltos enteramente en Python.
